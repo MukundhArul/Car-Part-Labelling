@@ -3,8 +3,8 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Zenith',
-  description: 'Created by',
-  generator: 'v0.dev',
+  description: 'Created by Zenith',
+  generator: 'Next.js',
 }
 
 export default function RootLayout({
